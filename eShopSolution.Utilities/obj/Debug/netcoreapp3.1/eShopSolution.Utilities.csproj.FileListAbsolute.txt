@@ -1,0 +1,10 @@
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.deps.json
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.AssemblyReference.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfoInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfo.cs
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.CoreCompileInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb

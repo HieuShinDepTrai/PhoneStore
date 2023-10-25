@@ -1,0 +1,13 @@
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CopyComplete
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb

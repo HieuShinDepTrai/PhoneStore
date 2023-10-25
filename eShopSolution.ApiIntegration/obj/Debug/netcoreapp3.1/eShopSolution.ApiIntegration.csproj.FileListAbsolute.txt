@@ -1,0 +1,15 @@
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CopyComplete
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\Ky8_Fall2023\PRN231\ElectroPhoneStore\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
